@@ -7,7 +7,7 @@
 Summary:	MooX::TypeTiny - Optimized type checks for Moo + Type::Tiny
 Name:		perl-MooX-TypeTiny
 Version:	0.002003
-Release:	1
+Release:	2
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/MooX/%{pdir}-%{pnam}-%{version}.tar.gz
