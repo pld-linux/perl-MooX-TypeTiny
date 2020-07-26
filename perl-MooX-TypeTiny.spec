@@ -17,8 +17,9 @@ BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
 BuildRequires:	rpmbuild(macros) >= 1.745
 %if %{with tests}
+BuildRequires:	perl-Class-Method-Modifiers
 BuildRequires:	perl-Moo >= 2.004
-BuildRequires:	perl-Type-Tiny >= 1.008
+BuildRequires:	perl-Type-Tiny >= 1.010002
 BuildRequires:	perl-Test-Fatal >= 0.003
 %endif
 BuildArch:	noarch
